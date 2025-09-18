@@ -29,8 +29,8 @@ The dataset contains information about Titanic passengers including:
    ```bash
    git clone <your-repo-link>
 2. Install required packages:
-```bash
+   ```bash
     pip install pandas numpy matplotlib seaborn
 3. Run your analysis script, e.g.:
-```bash
+   ```bash
     python analysis.py
